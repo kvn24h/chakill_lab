@@ -1,0 +1,62 @@
+[
+  {
+    "id": "39122150-6426-8109-afd5-cf883bbc2321",
+    "nombre": "Organizador Nido",
+    "precio": 21,
+    "color": "#BFD2E6",
+    "etiqueta": "Hecho a pedido",
+    "sku": "CHK · LAB · 0067",
+    "descripcion": "",
+    "activo": true
+  },
+  {
+    "id": "39122150-6426-8177-9d8b-c7293f9af80a",
+    "nombre": "Portavelas Duna",
+    "precio": 14,
+    "color": "#D9C0A0",
+    "etiqueta": "",
+    "sku": "CHK · LAB · 0033",
+    "descripcion": "",
+    "activo": true
+  },
+  {
+    "id": "39122150-6426-81a7-8b83-d3ec93f4d961",
+    "nombre": "Maceta Onda",
+    "precio": 18,
+    "color": "#6CA0CF",
+    "etiqueta": "Nuevo",
+    "sku": "CHK · LAB · 0042",
+    "descripcion": "",
+    "activo": true
+  },
+  {
+    "id": "39122150-6426-81ea-904b-ddd2ce0d7f89",
+    "nombre": "Maceta Mini",
+    "precio": 11,
+    "color": "#ECE6D6",
+    "etiqueta": "",
+    "sku": "CHK · LAB · 0028",
+    "descripcion": "",
+    "activo": true
+  },
+  {
+    "id": "39122150-6426-81fe-995f-fdf0713c68fe",
+    "nombre": "Lámpara Geo",
+    "precio": 39,
+    "color": "#1E3653",
+    "etiqueta": "Pieza del mes",
+    "sku": "CHK · LAB · 0070",
+    "descripcion": "",
+    "activo": true
+  },
+  {
+    "id": "39122150-6426-81fe-a3a0-cc70722480ff",
+    "nombre": "Florero Espiral",
+    "precio": 24,
+    "color": "#5E7CA6",
+    "etiqueta": "Edición",
+    "sku": "CHK · LAB · 0051",
+    "descripcion": "",
+    "activo": true
+  }
+]
